@@ -1,0 +1,15 @@
+Index: templates/default/index.html.twig
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- templates/default/index.html.twig	(revision 91ab205139809cdcb8bd4228ec221ccd42057348)
++++ templates/default/index.html.twig	(date 1537990379126)
+@@ -1,5 +1,5 @@
+ {# templates/default/index.html.twig #}
+ {% extends 'base.html.twig' %}
+ {% block body %}
+-<h1>Hello {{ name }}</h1>
++<h1>Hello {{ name }} 1</h1>
+ {% endblock %}
+\ No newline at end of file
